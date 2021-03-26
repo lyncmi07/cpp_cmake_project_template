@@ -1,0 +1,3 @@
+supermarine_add_collate_module(top_level_src)
+
+supermarine_add_internal_library(top_level_src libcpp_logger)

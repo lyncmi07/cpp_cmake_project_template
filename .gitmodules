@@ -1,0 +1,6 @@
+[submodule "tests/test_support/libs/libauto_test"]
+	path = tests/test_support/libs/libauto_test
+	url = ssh://git@git.supermarinesoftware.com:2222/lyncmi07/AutoTest_cmake.git
+[submodule "libs/libcpp_logger"]
+	path = libs/libcpp_logger
+	url = ssh://git@git.supermarinesoftware.com:2222/SupermarineSoftware/cpp_logger.git
